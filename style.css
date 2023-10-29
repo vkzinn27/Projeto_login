@@ -116,3 +116,10 @@ body {
     text-decoration: underline;
     color: orange;
 }
+
+.aviso {
+    display: none;
+    color: red;
+    font-size: 14px;
+    margin-top: 10px;
+}
